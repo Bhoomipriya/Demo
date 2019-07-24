@@ -1,0 +1,5 @@
+node{
+    stage('test'){
+        git 'https://github.com/Bhoomipriya/Demo.git'
+    }
+}
